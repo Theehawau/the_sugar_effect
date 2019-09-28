@@ -6,7 +6,7 @@
   "scripts": {
     "start": "gulp"
   },
-  "author": "colorlib",
+  "author": "",
   "license": "CC-BY-3.0",
   "devDependencies": {
     "gulp": "^3.9.1",
